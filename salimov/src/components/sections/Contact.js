@@ -22,7 +22,7 @@ const Contact = () => {
             <i className="fa fa-phone" />
             <p>
               <span className="small-text">phone</span>
-              +216 21 184 010
+              +923149225340
             </p>
           </div>
           {/* CONTACT ITEM ENDS */}
@@ -31,7 +31,7 @@ const Contact = () => {
             <i className="fa fa-location-dot" />
             <p>
               <span className="small-text">address</span>
-              London, England
+              Peshawar,Paksitan
             </p>
           </div>
           {/* CONTACT ITEM ENDS */}
@@ -42,7 +42,7 @@ const Contact = () => {
             <i className="fa fa-envelope" />
             <p>
               <span className="small-text">email</span>
-              contact@steven.net
+              kamrankhan384k@gmail.com
             </p>
           </div>
           {/* CONTACT ITEM ENDS */}
@@ -52,7 +52,7 @@ const Contact = () => {
             <span className="small-text">follow me</span>
             <ul className="social">
               <li>
-                <a href="#">
+                <a href="https://github.com/kamrankhan361k">
                   <i className="fa-brands fa-github" />
                 </a>
               </li>

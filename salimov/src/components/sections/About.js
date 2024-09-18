@@ -11,7 +11,7 @@ const About = () => {
         >
           <div>
             <div>
-              <img className="my-photo" src="assets/about.jpg" alt="" />
+              <img className="my-photo" src="assets/about1.jpg" alt="" />
             </div>
           </div>
         </div>
@@ -21,12 +21,12 @@ const About = () => {
           <h2>
             <span>
               <span className="animated-layer fade-in-up-animation fadeInUp wow">
-                Steven
+                Kamran
               </span>
             </span>
             <span>
               <span className="animated-layer fade-in-up-animation fadeInUp wow">
-                Walker
+                Khan
               </span>
             </span>
           </h2>
@@ -36,7 +36,7 @@ const About = () => {
                 <span>
                   <span className="animated-layer fade-in-up-animation fadeInUp wow">
                     <span>Age :</span>
-                    <span>27 Years</span>
+                    <span>24 Years</span>
                   </span>
                 </span>
               </li>
@@ -44,7 +44,7 @@ const About = () => {
                 <span>
                   <span className="animated-layer fade-in-up-animation fadeInUp wow">
                     <span>Nationality :</span>
-                    <span>German</span>
+                    <span>Pakistan</span>
                   </span>
                 </span>
               </li>
@@ -70,7 +70,7 @@ const About = () => {
                 <span>
                   <span className="animated-layer fade-in-up-animation fadeInUp wow">
                     <span>Address :</span>
-                    <span>London</span>
+                    <span>Pakistan</span>
                   </span>
                 </span>
               </li>
@@ -78,7 +78,7 @@ const About = () => {
                 <span>
                   <span className="animated-layer fade-in-up-animation fadeInUp wow">
                     <span>Phone :</span>
-                    <span>21 184 010</span>
+                    <span>+923149225340</span>
                   </span>
                 </span>
               </li>
@@ -86,7 +86,7 @@ const About = () => {
                 <span>
                   <span className="animated-layer fade-in-up-animation fadeInUp wow">
                     <span>Email :</span>
-                    <span>contact@steven.net</span>
+                    <span>kamrankhan384k@gmail.com</span>
                   </span>
                 </span>
               </li>
@@ -94,7 +94,7 @@ const About = () => {
                 <span>
                   <span className="animated-layer fade-in-up-animation fadeInUp wow">
                     <span>Skype :</span>
-                    <span>steven.walker</span>
+                    <span>live:.cid.95a014a150cdfbdc</span>
                   </span>
                 </span>
               </li>
@@ -217,14 +217,15 @@ const About = () => {
             <li>
               <div className="animated-layer fade-in-down-animation fadeInUp wow">
                 <div className="experience">
-                  <h4>Project Manager</h4>
+                  <h4>Full Stack Web Development</h4>
                   <p>
                     <i className="fa-regular fa-clock" />
-                    <span>2019 - Now</span>
+                    <span>May 2021 - Now</span>
                   </p>
+                  
                   <p>
                     <i className="fa-regular fa-building" />
-                    <span>Adobe Company</span>
+                    <span>Khyber Coded</span>
                   </p>
                 </div>
               </div>
@@ -234,7 +235,7 @@ const About = () => {
             <li>
               <div className="animated-layer fade-in-up-animation fadeInUp wow">
                 <div className="experience">
-                  <h4>Team Leader</h4>
+                  <h4>Artificial Intelligence Engineer</h4>
                   <p>
                     <i className="fa-regular fa-clock" />
                     <span>2015 - 2019</span>
